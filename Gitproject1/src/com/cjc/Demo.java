@@ -5,5 +5,6 @@ public class Demo {
 	{
 		System.out.println("Git Project");
 		System.out.println("Git Project");
+		System.out.println("Git Project");
 	}
 }
