@@ -31,7 +31,7 @@ public class mercuryLogin {
 		  System.setProperty("webdriver.chrome.driver", "C:\\\\Users\\\\91862\\\\Desktop\\\\Selenium\\\\chromedriver_win32\\\\chromedriver.exe");
 		 driver =new ChromeDriver();
 		 System.out.println("open chrome browser");
-		 System.out.println("==============");
+		
 	  }
 	@BeforeTest
 	  public void openUrl() 
